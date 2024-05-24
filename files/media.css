@@ -1,0 +1,129 @@
+@media (max-width: 1600px) {
+body > .wrapper {background-size: 400px, 400px, cover;}
+.header-box img {width: 240px;}
+.contact-label:after {right: -25px;}
+.contact-label:before {right: -15px;}
+.contact-no a{font-size: 24px;}
+.footer-box {margin-top: 40px;}
+.footer-logo {margin: 40px auto 0;}
+
+/********** Bonus Form **********/
+.bonus-form-page .wrapper{padding: 30px 30px;}
+.bonus-form-page .header-box img {width: 160px;}
+.bonus-form-page .header-box .otherimg {width: 330px;}
+.bonus-form-page .head-text{font-size: 24px;}
+.form-group{margin-bottom: 15px;}
+.bonus-form .file-wrap .upload-text{font-size: 20px;}
+.custom-btn{font-size: 20px;}
+}
+
+@media (max-width: 1440px) {
+.header-box {margin: 0 auto 30px;}
+.header-box img {width: 220px;}
+.center-box {margin: 30px auto;}
+.contact-label {min-height: 65px;}
+.contact-label span{font-size: 21px;padding: 0 30px 0 10px;}
+.contact-no a{font-size: 22px;padding: 10px 15px;}
+.footer-box {margin-top: 30px;}
+.footer-logo {margin: 30px auto 0;}
+.footer-logo img{height: 50px;}
+.footer-cta-box span {font-size: 22px;}
+.contact-label .icon img {width: 35px;height: 35px;}
+
+/********** Bonus Form **********/
+.bonus-form-page .header-box img {width: 140px;}
+.bonus-form-page .header-box .otherimg {width: 300px;}
+.bonus-form-page .head-text{font-size: 20px;}
+.form-control{height: 50px;}
+.thank-you-icon{margin-bottom: 20px;}
+.thank-you-box p{font-size: 22px;}
+.thank-you-icon img {width: 130px;}
+}
+
+@media (max-width: 1366px) {
+body > .wrapper {background-size: 350px, 350px, cover;}
+.center-box {max-width: 580px;}
+.footer-box {margin-top: 20px;}
+.footer-logo {margin: 20px auto 0;}
+.footer-cta-box span{font-size: 20px;}
+.contact-label span{font-size: 20px;}
+.contact-no a{font-size: 20px;}
+}
+
+@media (max-width: 1199px) {
+body {font-size: 16px;}
+body > .wrapper {background-size: 250px, 250px, cover;}
+.border {margin-left: -50px;margin-right: -50px;}
+}
+
+@media (max-width: 991px) {
+body > .wrapper {background-size: 220px, 220px, cover;}
+}
+
+@media (max-width: 767px) {
+body > .wrapper {background-size: 200px, 200px, cover;}
+.wrapper {padding: 0 15px;}
+.container {padding: 100px 0;}
+.center-box {max-width: 300px;}
+.header-box img {width: 200px;}
+/*.contact-box {display: block;}*/
+/*.contact-label {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;border-radius: 10px 10px 0 0;-ms-flex-pack: center;justify-content: center;}
+.contact-no {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;margin: 0;border-radius: 0 0 10px 10px;text-align: center;}*/
+.contact-label {padding: 3px 10px 3px 10px;border-width: 2px;margin-right: 15px;min-height: 45px;}
+.contact-label:before {width: 2px;top: -2px;bottom: -2px;transform: skewX(-13deg);right: -7px;}
+.contact-label:after {height: 2px;top: -2px;right: -12px;}
+.contact-label .icon {border-width: 2px;}
+.contact-label .icon img {width: 30px;height: 30px;}
+.contact-label span {font-size: 12px;padding: 0;}
+.contact-no {transform: skewX(-13deg);margin-left: -9px;}
+.contact-no a {font-size: 13px;transform: skewX(13deg);padding: 8px 5px;}
+.bonus-form-page .container{padding: 0;}
+.header-title-desc{margin: 0 auto 20px;}
+.header-title-desc h2{font-size: 24px;}
+.header-title-desc p{font-size: 16px;}
+.bonus-thank-you p{font-size: 18px;}
+.form-control{height: 45px;font-size: 16px;}
+.bonus-form-page .wrapper{padding: 40px 30px 250px;}
+.bonus-thank-you img{width: 120px;}
+.custom-btn{padding: 12px 25px 11px 25px;font-size: 16px;}
+.head-img {margin-bottom: 10px;}
+.border {margin-left: 0;margin-right: 0;}
+.footer-cta-box {margin: 0 10px;}
+.footer-cta-box a {-ms-flex-pack: center;justify-content: center;}
+.footer-cta-box .name:before {width: 2px;top: 0;bottom: 0;}
+.footer-cta-box .icon img {width: 30px;margin-right: 10px;}
+.footer-cta-box span {font-size: 12px;border-width: 2px;padding: 7px 10px 5px;}
+.footer-cta-box span:before {top: -2px;bottom: -2px;width: 2px;right: -7px;transform: skewX(-25deg);}
+.footer-cta-box span:after {height: 2px;top: -2px;right: -12px;}
+.footer-logo img {width: 180px;height: auto;}
+.contact-box{margin-bottom: 15px;}
+.center-box{margin: 30px auto;}
+.header-box{margin: 0 auto 30px;}
+.whatsapp-telegram-wrap{display: block;}
+.contact-box.whatsapp a .contact-label{min-height: 45px;}
+.contact-box.whatsapp .contact-label span{font-size: 14px;}
+.contact-box.whatsapp .contact-label:before {transform: skewX(-17deg);}
+
+/********** Bonus Form **********/
+.bonus-form-page .wrapper{padding: 30px 20px;}
+.bonus-form-page .header-box img{width: 120px;}
+.bonus-form-page .header-box .otherimg{width: 280px;}
+.bonus-form-page .head-text{font-size: 18px;}
+.form-control{font-size: 18px;}
+.custom-btn{font-size: 20px;}
+.thank-you-box p{font-size: 20px;}
+.thank-you-icon img {width: 120px;}
+}
+
+@media (max-width: 360px) {
+.footer-cta-box {margin: 0 15px 0 0;}
+.footer-cta-box:last-child {margin: 0;}
+.footer-cta-box span {font-size: 12px;padding: 7px 5px 5px;}
+.contact-label span {font-size: 12px;}
+.footer-cta-box .icon img {width: 25px;margin-right: 5px;}
+.bonus-form .file-wrap .upload-text{padding: 10px 20px 10px 50px;background-position: left 15px center;}
+}
+
+@media (orientation: landscape) and (max-width: 767px) {
+.container {padding: 80px 0;}
+}
